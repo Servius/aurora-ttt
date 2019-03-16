@@ -1,0 +1,13 @@
+total 835
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root       104780 Mar 24 22:11 boltrelease.wav
+-rw-rw-rw-   1 root     root        31080 Mar 24 22:11 chargerback.wav
+-rw-rw-rw-   1 root     root        45542 Mar 24 22:11 cloth1.wav
+-rw-rw-rw-   1 root     root        60026 Mar 24 22:11 cloth2.wav
+-rw-rw-rw-   1 root     root       434332 Mar 24 22:11 foley.wav
+-rw-rw-rw-   1 root     root        44156 Mar 24 22:11 magin1.wav
+-rw-rw-rw-   1 root     root        37714 Mar 24 22:11 magin2.wav
+-rw-rw-rw-   1 root     root        35862 Mar 24 22:11 magout.wav
+-rw-rw-rw-   1 root     root        38942 Mar 24 22:11 magslap.wav
+-rw-rw-rw-   1 root     root        15772 Mar 24 22:11 safety.wav

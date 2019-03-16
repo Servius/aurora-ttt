@@ -1,0 +1,12 @@
+total 810
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root        76332 Mar 24 22:10 boltslap.wav
+-rw-rw-rw-   1 root     root        22690 Mar 24 22:10 deploy.wav
+-rw-rw-rw-   1 root     root        43534 Mar 24 22:10 magdrop.wav
+-rw-rw-rw-   1 root     root        41962 Mar 24 22:10 magin.wav
+-rw-rw-rw-   1 root     root        87356 Mar 24 22:10 magout.wav
+-rw-rw-rw-   1 root     root        51624 Mar 24 22:10 magtap.wav
+-rw-rw-rw-   1 root     root        25538 Mar 24 22:10 safety.wav
+-rw-rw-rw-   1 root     root       237660 Mar 24 22:10 shot-1.wav
+-rw-rw-rw-   1 root     root       238392 Mar 24 22:10 shot-2.wav

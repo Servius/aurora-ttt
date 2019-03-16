@@ -1,0 +1,14 @@
+total 4701
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root       323333 Mar 24 22:11 v_rif_msda.dx80.vtx
+-rw-rw-rw-   1 root     root       321949 Mar 24 22:10 v_rif_msda.dx90.vtx
+-rw-rw-rw-   1 root     root       249620 Mar 24 22:11 v_rif_msda.mdl
+-rw-rw-rw-   1 root     root       321445 Mar 24 22:10 v_rif_msda.sw.vtx
+-rw-rw-rw-   1 root     root      1345408 Mar 24 22:10 v_rif_msda.vvd
+-rw-rw-rw-   1 root     root       272344 Mar 24 22:11 w_masada_acr.dx80.vtx
+-rw-rw-rw-   1 root     root       272344 Mar 24 22:11 w_masada_acr.dx90.vtx
+-rw-rw-rw-   1 root     root         4544 Mar 24 22:10 w_masada_acr.mdl
+-rw-rw-rw-   1 root     root         1315 Mar 24 22:10 w_masada_acr.phy
+-rw-rw-rw-   1 root     root       272288 Mar 24 22:10 w_masada_acr.sw.vtx
+-rw-rw-rw-   1 root     root      1425920 Mar 24 22:10 w_masada_acr.vvd

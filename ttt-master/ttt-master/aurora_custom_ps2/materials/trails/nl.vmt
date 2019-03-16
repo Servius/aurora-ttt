@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trails/nl"
+	"$additive" 0
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

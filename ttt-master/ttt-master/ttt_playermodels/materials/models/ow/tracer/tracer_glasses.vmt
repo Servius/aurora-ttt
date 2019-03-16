@@ -1,0 +1,14 @@
+vertexlitgeneric
+{
+$baseTexture "models\OW\tracer\Body_Diff"
+$bumpmap "models\OW\tracer\Body_Normal"
+//        "$lightwarptexture" 	"models\OW\tracer\Base_M_caucasian_wrp"
+//	"$PhongWarpTexture"	"models\OW\tracer\Green_Exponent"
+$phong 1
+$phongboost "1"
+$phongexponent 12
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+}

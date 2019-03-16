@@ -1,0 +1,11 @@
+total 271
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root         8403 Mar 24 22:11 famas_boltpull.mp3
+-rw-rw-rw-   1 root     root        12582 Mar 24 22:11 famas_boltrelease.mp3
+-rw-rw-rw-   1 root     root         9468 Mar 24 22:11 famas_clipin.mp3
+-rw-rw-rw-   1 root     root         4274 Mar 24 22:11 famas_clipout.mp3
+-rw-rw-rw-   1 root     root        38724 Mar 24 22:11 famas_clipout1.mp3
+-rw-rw-rw-   1 root     root        41859 Mar 24 22:11 famas_cloth.mp3
+-rw-rw-rw-   1 root     root        54397 Mar 24 22:11 famas_tap.mp3
+-rw-rw-rw-   1 root     root       103236 Mar 24 22:11 famas-1.wav

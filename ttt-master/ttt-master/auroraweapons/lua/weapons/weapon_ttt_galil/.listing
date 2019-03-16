@@ -1,0 +1,4 @@
+total 2
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root         1091 Mar 27 21:53 shared.lua

@@ -1,0 +1,7 @@
+total 324
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root           82 Mar 24 22:11 557.vmt
+-rw-rw-rw-   1 root     root       262352 Mar 24 22:11 557.vtf
+-rw-rw-rw-   1 root     root          131 Mar 24 22:11 rect.vmt
+-rw-rw-rw-   1 root     root        65744 Mar 24 22:11 rect.vtf

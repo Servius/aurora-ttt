@@ -1,0 +1,18 @@
+total 7533
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root          278 Mar 29 02:25 slow_catwoman.vmt
+-rw-rw-rw-   1 root     root       699272 Mar 29 02:25 slow_catwoman.vtf
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:25 slow_catwoman_bump.vtf
+-rw-rw-rw-   1 root     root       699272 Mar 29 02:25 slow_catwoman_dark.vtf
+-rw-rw-rw-   1 root     root          282 Mar 29 02:25 slow_catwoman_dark_glasses.vmt
+-rw-rw-rw-   1 root     root          283 Mar 29 02:25 slow_catwoman_dark_leather.vmt
+-rw-rw-rw-   1 root     root       699272 Mar 29 02:25 slow_catwoman_exp.vtf
+-rw-rw-rw-   1 root     root          287 Mar 29 02:25 slow_catwoman_eyes.vmt
+-rw-rw-rw-   1 root     root        11144 Mar 29 02:25 slow_catwoman_eyes.vtf
+-rw-rw-rw-   1 root     root          232 Mar 29 02:25 slow_catwoman_glass.vmt
+-rw-rw-rw-   1 root     root         1600 Mar 29 02:25 slow_catwoman_glass.vtf
+-rw-rw-rw-   1 root     root          278 Mar 29 02:25 slow_catwoman_metal.vmt
+-rw-rw-rw-   1 root     root          344 Mar 29 02:25 slow_catwoman_mixed.vmt
+-rw-rw-rw-   1 root     root          349 Mar 29 02:25 slow_catwoman_mixed_dark.vmt
+-rw-rw-rw-   1 root     root          277 Mar 29 02:25 slow_catwoman_whip.vmt

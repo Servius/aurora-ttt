@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/flash/v2/slow_flash"
+//	"$bumpmap" "models/player/slow/jamis/mkvsdcu/flash/v2/slow_flash_bump"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/jamis/mkvsdcu/flash/v2/slow_flash"
+	"$envmaptint" "[.9 1 .9]"
+	"$envmapcontrast" .55
+	"$envmapsaturation" .85
+}
+

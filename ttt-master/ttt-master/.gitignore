@@ -1,0 +1,9 @@
+*.gma
+Thumbs.db
+sv.db
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+aa/*
+disabled/*
+disabled

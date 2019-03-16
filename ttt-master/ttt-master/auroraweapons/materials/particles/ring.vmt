@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particles/ring"
+	"$translucent" 1
+	"$additive" 1
+
+}

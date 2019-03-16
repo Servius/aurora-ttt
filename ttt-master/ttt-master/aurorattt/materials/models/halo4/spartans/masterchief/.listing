@@ -1,0 +1,22 @@
+total 7522
+d--x--x--x   1 root     root          512 Apr 22 06:47 .
+d--x--x--x   1 root     root          512 Apr 22 06:47 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:10 arms
+-rw-rw-rw-   1 root     root          573 Mar 24 22:10 chief_arm_d.vmt
+-rw-rw-rw-   1 root     root       174944 Mar 24 22:10 chief_arm_d.vtf
+-rw-rw-rw-   1 root     root       174944 Mar 24 22:10 chief_arm_n.vtf
+-rw-rw-rw-   1 root     root          575 Mar 24 22:10 chief_helm_d.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:10 chief_helm_d.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:10 chief_helm_n.vtf
+-rw-rw-rw-   1 root     root          573 Mar 24 22:10 chief_leg_d.vmt
+-rw-rw-rw-   1 root     root       174944 Mar 24 22:10 chief_leg_d.vtf
+-rw-rw-rw-   1 root     root       174944 Mar 24 22:10 chief_leg_n.vtf
+-rw-rw-rw-   1 root     root          583 Mar 24 22:10 chief_shoulder_d.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:10 chief_shoulder_d.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:10 chief_shoulder_n.vtf
+-rw-rw-rw-   1 root     root          579 Mar 24 22:10 chief_techsuit_d.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:10 chief_techsuit_d.vtf
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:10 chief_techsuit_n.vtf
+-rw-rw-rw-   1 root     root          577 Mar 24 22:10 chief_torso_d.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:10 chief_torso_d.vtf
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:10 chief_torso_n.vtf

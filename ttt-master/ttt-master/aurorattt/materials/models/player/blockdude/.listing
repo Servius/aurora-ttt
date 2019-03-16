@@ -1,0 +1,5 @@
+total 23
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root           81 Mar 24 22:09 blockdude.vmt
+-rw-rw-rw-   1 root     root        21992 Mar 24 22:09 blockdude.vtf

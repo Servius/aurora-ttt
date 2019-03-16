@@ -1,0 +1,17 @@
+total 9055
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root          449 Mar 27 16:46 cape.vmt
+-rw-rw-rw-   1 root     root       349776 Mar 27 16:46 cape.vtf
+-rw-rw-rw-   1 root     root          133 Mar 27 16:46 hair.vmt
+-rw-rw-rw-   1 root     root      1398352 Mar 27 16:46 hair.vtf
+-rw-rw-rw-   1 root     root          448 Mar 27 16:46 hat.vmt
+-rw-rw-rw-   1 root     root      1398352 Mar 27 16:46 hat.vtf
+-rw-rw-rw-   1 root     root           78 Mar 27 16:46 head.vmt
+-rw-rw-rw-   1 root     root       174960 Mar 27 16:46 head.vtf
+-rw-rw-rw-   1 root     root          447 Mar 27 16:46 mask.vmt
+-rw-rw-rw-   1 root     root       174984 Mar 27 16:46 mask.vtf
+-rw-rw-rw-   1 root     root       174960 Mar 27 16:46 mask_normal.vtf
+-rw-rw-rw-   1 root     root          451 Mar 27 16:46 v_sheet.vmt
+-rw-rw-rw-   1 root     root      2796400 Mar 27 16:46 v_sheet.vtf
+-rw-rw-rw-   1 root     root      2796400 Mar 27 16:46 v_sheet_normal.vtf

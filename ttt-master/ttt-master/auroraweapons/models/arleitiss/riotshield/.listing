@@ -1,0 +1,9 @@
+total 758
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root       113931 Mar 24 22:10 shield.dx80.vtx
+-rw-rw-rw-   1 root     root       113931 Mar 24 22:10 shield.dx90.vtx
+-rw-rw-rw-   1 root     root         2520 Mar 24 22:10 shield.mdl
+-rw-rw-rw-   1 root     root        21670 Mar 24 22:10 shield.phy
+-rw-rw-rw-   1 root     root       113891 Mar 24 22:10 shield.sw.vtx
+-rw-rw-rw-   1 root     root       406208 Mar 24 22:10 shield.vvd

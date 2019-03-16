@@ -1,0 +1,8 @@
+total 5
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root           83 Mar 24 22:11 body.vmt
+-rw-rw-rw-   1 root     root           83 Mar 24 22:11 fore.vmt
+-rw-rw-rw-   1 root     root          103 Mar 24 22:11 halo.vmt
+-rw-rw-rw-   1 root     root           86 Mar 24 22:11 pmag_30.vmt
+-rw-rw-rw-   1 root     root           84 Mar 24 22:11 stock.vmt

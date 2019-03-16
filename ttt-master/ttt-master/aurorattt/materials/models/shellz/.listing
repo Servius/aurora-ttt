@@ -1,0 +1,15 @@
+total 329
+d--x--x--x   1 root     root          512 Apr 22 06:47 .
+d--x--x--x   1 root     root          512 Apr 22 06:47 ..
+-rw-rw-rw-   1 root     root           60 Mar 24 22:09 12g.vmt
+-rw-rw-rw-   1 root     root        87616 Mar 24 22:09 12g.vtf
+-rw-rw-rw-   1 root     root           60 Mar 24 22:09 338.vmt
+-rw-rw-rw-   1 root     root        43872 Mar 24 22:09 338.vtf
+-rw-rw-rw-   1 root     root           60 Mar 24 22:09 556.vmt
+-rw-rw-rw-   1 root     root        43872 Mar 24 22:09 556.vtf
+-rw-rw-rw-   1 root     root           59 Mar 24 22:09 57.vmt
+-rw-rw-rw-   1 root     root        43872 Mar 24 22:09 57.vtf
+-rw-rw-rw-   1 root     root           60 Mar 24 22:09 9mm.vmt
+-rw-rw-rw-   1 root     root        22080 Mar 24 22:09 9mm.vtf
+-rw-rw-rw-   1 root     root           59 Mar 24 22:09 ak.vmt
+-rw-rw-rw-   1 root     root        87616 Mar 24 22:09 ak.vtf

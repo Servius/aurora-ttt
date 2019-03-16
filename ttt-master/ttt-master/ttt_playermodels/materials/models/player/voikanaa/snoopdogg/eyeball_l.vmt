@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/player/voikanaa/snoopdogg/eyeball_l"
+	"$iris" "models/player/voikanaa/snoopdogg/pupil_l"
+	"$halflambert" 1
+	"$nodecal" 1
+}

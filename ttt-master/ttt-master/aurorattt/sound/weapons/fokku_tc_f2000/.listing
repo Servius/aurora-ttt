@@ -1,0 +1,16 @@
+total 1832
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root        35570 Mar 24 22:10 chargeback.mp3
+-rw-rw-rw-   1 root     root        50199 Mar 24 22:10 chargeback1.mp3
+-rw-rw-rw-   1 root     root        37660 Mar 24 22:10 chargefor.mp3
+-rw-rw-rw-   1 root     root        51244 Mar 24 22:10 chargefor1.mp3
+-rw-rw-rw-   1 root     root        39750 Mar 24 22:10 clipin.mp3
+-rw-rw-rw-   1 root     root        63782 Mar 24 22:10 clipout.mp3
+-rw-rw-rw-   1 root     root        23031 Mar 24 22:10 cloth.mp3
+-rw-rw-rw-   1 root     root        21987 Mar 24 22:10 cloth2.mp3
+-rw-rw-rw-   1 root     root       101418 Mar 24 22:10 foley.mp3
+-rw-rw-rw-   1 root     root       359960 Mar 24 22:10 shot-1.wav
+-rw-rw-rw-   1 root     root       359960 Mar 24 22:10 shot-2.wav
+-rw-rw-rw-   1 root     root       359960 Mar 24 22:10 shot-3.wav
+-rw-rw-rw-   1 root     root       364512 Mar 24 22:10 shot-4.wav

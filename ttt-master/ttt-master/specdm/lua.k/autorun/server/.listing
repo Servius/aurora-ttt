@@ -1,0 +1,5 @@
+total 2
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root          254 Apr 06 15:40 statistics_10634.lua
+-rw-rw-rw-   1 root     root           52 Apr 06 15:40 ttt_spec_dm_autorun.lua

@@ -1,0 +1,6 @@
+total 0
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 v_models
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 w_models
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 x_models

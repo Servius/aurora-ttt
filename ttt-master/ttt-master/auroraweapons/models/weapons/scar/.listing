@@ -1,0 +1,14 @@
+total 5526
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root       351036 Mar 24 22:11 v_fnscarh.dx80.vtx
+-rw-rw-rw-   1 root     root       350187 Mar 24 22:11 v_fnscarh.dx90.vtx
+-rw-rw-rw-   1 root     root        45208 Mar 24 22:11 v_fnscarh.mdl
+-rw-rw-rw-   1 root     root       349723 Mar 24 22:11 v_fnscarh.sw.vtx
+-rw-rw-rw-   1 root     root      1365632 Mar 24 22:11 v_fnscarh.vvd
+-rw-rw-rw-   1 root     root       390506 Mar 24 22:11 w_fn_scar_h.dx80.vtx
+-rw-rw-rw-   1 root     root       390506 Mar 24 22:11 w_fn_scar_h.dx90.vtx
+-rw-rw-rw-   1 root     root         5544 Mar 24 22:11 w_fn_scar_h.mdl
+-rw-rw-rw-   1 root     root         2812 Mar 24 22:11 w_fn_scar_h.phy
+-rw-rw-rw-   1 root     root       390418 Mar 24 22:11 w_fn_scar_h.sw.vtx
+-rw-rw-rw-   1 root     root      2011328 Mar 24 22:11 w_fn_scar_h.vvd

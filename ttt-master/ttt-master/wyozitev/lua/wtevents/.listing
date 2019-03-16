@@ -1,0 +1,10 @@
+total 14
+d--x--x--x   1 root     root          512 Apr 22 06:50 .
+d--x--x--x   1 root     root          512 Apr 22 06:50 ..
+-rw-rw-rw-   1 root     root          601 Mar 25 02:15 bighead.lua
+-rw-rw-rw-   1 root     root          770 Mar 25 02:15 deathmatch.lua
+-rw-rw-rw-   1 root     root         1000 Mar 25 02:15 dodgeball.lua
+-rw-rw-rw-   1 root     root          740 Mar 25 02:15 hswar.lua
+-rw-rw-rw-   1 root     root         2908 Mar 25 02:15 shuffle.lua
+-rw-rw-rw-   1 root     root         5971 Mar 25 02:15 stalker.lua
+-rw-rw-rw-   1 root     root          434 Mar 25 02:15 teamdm.lua

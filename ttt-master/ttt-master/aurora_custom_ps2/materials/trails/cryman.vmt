@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trails/cryman"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

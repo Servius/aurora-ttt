@@ -1,0 +1,15 @@
+total 1842
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root       103866 Mar 24 22:11 v_fnfalnato.dx80.vtx
+-rw-rw-rw-   1 root     root       103707 Mar 24 22:11 v_fnfalnato.dx90.vtx
+-rw-rw-rw-   1 root     root        37872 Mar 24 22:11 v_fnfalnato.mdl
+-rw-rw-rw-   1 root     root       103331 Mar 24 22:11 v_fnfalnato.sw.vtx
+-rw-rw-rw-   1 root     root       422464 Mar 24 22:11 v_fnfalnato.vvd
+-rw-rw-rw-   1 root     root       103707 Mar 24 22:11 v_fnfalnato.xbox.vtx
+-rw-rw-rw-   1 root     root       121994 Mar 24 22:11 w_fn_fal.dx80.vtx
+-rw-rw-rw-   1 root     root       121994 Mar 24 22:11 w_fn_fal.dx90.vtx
+-rw-rw-rw-   1 root     root         5548 Mar 24 22:11 w_fn_fal.mdl
+-rw-rw-rw-   1 root     root         1411 Mar 24 22:11 w_fn_fal.phy
+-rw-rw-rw-   1 root     root       121906 Mar 24 22:11 w_fn_fal.sw.vtx
+-rw-rw-rw-   1 root     root       630848 Mar 24 22:11 w_fn_fal.vvd

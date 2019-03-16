@@ -1,0 +1,8 @@
+total 897
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root        36615 Mar 24 22:10 sg550_boltpull.mp3
+-rw-rw-rw-   1 root     root        64827 Mar 24 22:10 sg550_clipin.mp3
+-rw-rw-rw-   1 root     root        57513 Mar 24 22:10 sg550_clipout.mp3
+-rw-rw-rw-   1 root     root        61693 Mar 24 22:10 sg550_deploy.mp3
+-rw-rw-rw-   1 root     root       694340 Mar 24 22:10 sg550-1.wav

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/spiderman/slow_legs"
+	"$bumpmap"	"models/player/slow/jamis/spiderman/slow_legs_bump"
+
+	"$detail"	"models/player/slow/jamis/spiderman/slow_detail"
+	"$detailscale" 23
+
+ 	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost"	".5"
+	"$phongfresnelranges"	"[1 .5 .5]"
+}
+

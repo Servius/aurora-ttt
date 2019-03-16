@@ -1,0 +1,11 @@
+total 51
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+drwxrwxrwx   1 root     root          512 Mar 29 02:25 batman
+-rw-rw-rw-   1 root     root         3749 Mar 24 22:09 blockdude.dx80.vtx
+-rw-rw-rw-   1 root     root         3749 Mar 24 22:09 blockdude.dx90.vtx
+-rw-rw-rw-   1 root     root        12168 Mar 24 22:09 blockdude.mdl
+-rw-rw-rw-   1 root     root         9854 Mar 24 22:09 blockdude.phy
+-rw-rw-rw-   1 root     root         3661 Mar 24 22:09 blockdude.sw.vtx
+-rw-rw-rw-   1 root     root        16960 Mar 24 22:09 blockdude.vvd
+drwxrwxrwx   1 root     root          512 Mar 27 18:09 slow

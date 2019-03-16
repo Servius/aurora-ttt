@@ -1,0 +1,16 @@
+░█▀▀█ █░░█ █▀▀█ █▀▀█ █▀▀█ █▀▀█ 　 ▒█▀▀▄ █▀▀ ▀█░█▀ 　 ▒█░░░ ░▀░ █▀▀▄ █▀▀█ █▀▀█ █▀▀█ █░░█ 
+▒█▄▄█ █░░█ █▄▄▀ █░░█ █▄▄▀ █▄▄█ 　 ▒█░▒█ █▀▀ ░█▄█░ 　 ▒█░░░ ▀█▀ █▀▀▄ █▄▄▀ █▄▄█ █▄▄▀ █▄▄█ 
+▒█░▒█ ░▀▀▀ ▀░▀▀ ▀▀▀▀ ▀░▀▀ ▀░░▀ 　 ▒█▄▄▀ ▀▀▀ ░░▀░░ 　 ▒█▄▄█ ▀▀▀ ▀▀▀░ ▀░▀▀ ▀░░▀ ▀░▀▀ ▄▄▄█ 
+
+Designed for use w/ Aurora DarkRP
+Contains several functions that overrides DarkRP functions without modifiying core files.
+This is specifically created to reduce the amount of issues when upgrading in the future.
+
+There is no other documentation available.
+If you have any questions regarding any functions and how they are used, please contact
+
+Divinity (http://steamcommunity.com/id/CanadianSteve)
+
+This library will be continually expanded upon.
+
+Based upon ULib, but used for completely different purposes.

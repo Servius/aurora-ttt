@@ -1,0 +1,4 @@
+total 1
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root           55 Mar 24 22:12 ttt_spec_dm_autorun.lua

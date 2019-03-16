@@ -1,0 +1,27 @@
+"Refract"
+{
+
+
+	"$model" 1
+	"$nocull" "1"
+
+	"$nowritez" 1
+	"$bluramount" 1
+ 	"$refractamount" ".02"
+ 	"$dudvmap" "models\OW\tracer/Visor_dudv"
+	"$normalmap" "models\OW\tracer/Visor_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	"$refracttinttexture" "models\OW\tracer/Visor_tint"
+//	"$refracttint" "{255 20 50}"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .08
+			"texturescrollangle" 90
+		}
+	}
+}

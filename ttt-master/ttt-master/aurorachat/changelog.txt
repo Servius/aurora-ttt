@@ -1,0 +1,2 @@
++ Fixed Player.PrintMessage printing the message twice in console.
++ Added a queue for MySQL incase the connection is dropped/timed-out.

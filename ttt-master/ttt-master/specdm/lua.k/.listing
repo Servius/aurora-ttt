@@ -1,0 +1,18 @@
+total 70
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+drwxrwxrwx   1 root     root          512 Apr 06 15:40 autorun
+-rw-rw-rw-   1 root     root         6187 Apr 06 15:40 cl_quakesounds.lua
+-rw-rw-rw-   1 root     root         7607 Apr 06 16:07 cl_specdm_hud.lua
+-rw-rw-rw-   1 root     root        16916 Apr 06 15:41 cl_spectator_deathmatch.lua
+-rw-rw-rw-   1 root     root         7753 Apr 06 15:40 cl_stats.lua
+drwxrwxrwx   1 root     root          512 Apr 06 15:40 includes
+-rw-rw-rw-   1 root     root         1016 Apr 06 15:40 sh_spectator_deathmatch.lua
+-rw-rw-rw-   1 root     root         3225 Apr 06 15:40 specdm_config.lua
+-rw-rw-rw-   1 root     root         1123 Apr 06 15:40 sv_quakesounds.lua
+-rw-rw-rw-   1 root     root         1641 Apr 06 15:40 sv_resources.lua
+-rw-rw-rw-   1 root     root         6642 Apr 06 15:40 sv_specdm_overrides.lua
+-rw-rw-rw-   1 root     root         5765 Apr 06 15:40 sv_spectator_deathmatch.lua
+-rw-rw-rw-   1 root     root         7357 Apr 06 15:40 sv_stats.lua
+drwxrwxrwx   1 root     root          512 Apr 06 15:40 vgui
+drwxrwxrwx   1 root     root          512 Apr 06 15:40 weapons

@@ -1,0 +1,22 @@
+total 7151
+d--x--x--x   1 root     root          512 Apr 22 06:47 .
+d--x--x--x   1 root     root          512 Apr 22 06:47 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:10 arms
+-rw-rw-rw-   1 root     root       391324 Mar 24 22:10 masterchief.dx80.vtx
+-rw-rw-rw-   1 root     root       388711 Mar 24 22:10 masterchief.dx90.vtx
+-rw-rw-rw-   1 root     root        27864 Mar 24 22:10 masterchief.mdl
+-rw-rw-rw-   1 root     root        16935 Mar 24 22:10 masterchief.phy
+-rw-rw-rw-   1 root     root       387582 Mar 24 22:10 masterchief.sw.vtx
+-rw-rw-rw-   1 root     root      1711424 Mar 24 22:10 masterchief.vvd
+-rw-rw-rw-   1 root     root       317826 Mar 24 22:10 masterchief_npc.dx80.vtx
+-rw-rw-rw-   1 root     root       317029 Mar 24 22:10 masterchief_npc.dx90.vtx
+-rw-rw-rw-   1 root     root        24388 Mar 24 22:10 masterchief_npc.mdl
+-rw-rw-rw-   1 root     root        18391 Mar 24 22:10 masterchief_npc.phy
+-rw-rw-rw-   1 root     root       316509 Mar 24 22:10 masterchief_npc.sw.vtx
+-rw-rw-rw-   1 root     root      1200896 Mar 24 22:10 masterchief_npc.vvd
+-rw-rw-rw-   1 root     root       317826 Mar 24 22:10 masterchief_player.dx80.vtx
+-rw-rw-rw-   1 root     root       317029 Mar 24 22:10 masterchief_player.dx90.vtx
+-rw-rw-rw-   1 root     root        24364 Mar 24 22:10 masterchief_player.mdl
+-rw-rw-rw-   1 root     root        18391 Mar 24 22:10 masterchief_player.phy
+-rw-rw-rw-   1 root     root       316509 Mar 24 22:10 masterchief_player.sw.vtx
+-rw-rw-rw-   1 root     root      1200896 Mar 24 22:10 masterchief_player.vvd

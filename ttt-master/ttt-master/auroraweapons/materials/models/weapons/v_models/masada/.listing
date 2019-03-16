@@ -1,0 +1,19 @@
+total 3599
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          256 Mar 24 22:11 body.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 body.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:11 body_normal.vtf
+-rw-rw-rw-   1 root     root          262 Mar 24 22:11 fore.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 foregrip.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:11 foregrip_normal.vtf
+-rw-rw-rw-   1 root     root          103 Mar 24 22:11 halo.vmt
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 halo.vtf
+-rw-rw-rw-   1 root     root          107 Mar 24 22:11 moerails_diffuse.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 moerails_diffuse.vtf
+-rw-rw-rw-   1 root     root          262 Mar 24 22:11 pmag_30.vmt
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 pmag_30.vtf
+-rw-rw-rw-   1 root     root       262352 Mar 24 22:11 pmag_30_normal.vtf
+-rw-rw-rw-   1 root     root          258 Mar 24 22:11 stock.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 stock.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:11 stock_normal.vtf

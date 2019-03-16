@@ -1,0 +1,13 @@
+total 6835
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root          356 Mar 29 02:25 slow_batman.vmt
+-rw-rw-rw-   1 root     root       699272 Mar 29 02:25 slow_batman.vtf
+-rw-rw-rw-   1 root     root          268 Mar 29 02:25 slow_batman_belt.vmt
+-rw-rw-rw-   1 root     root          278 Mar 29 02:25 slow_batman_blades.vmt
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:25 slow_batman_bump.vtf
+-rw-rw-rw-   1 root     root       699272 Mar 29 02:25 slow_batman_exp.vtf
+-rw-rw-rw-   1 root     root          293 Mar 29 02:25 slow_batman_eyes.vmt
+-rw-rw-rw-   1 root     root          274 Mar 29 02:25 slow_batman_latex.vmt
+-rw-rw-rw-   1 root     root          271 Mar 29 02:25 slow_batman_pockets.vmt
+-rw-rw-rw-   1 root     root          270 Mar 29 02:25 slow_batman_skin.vmt

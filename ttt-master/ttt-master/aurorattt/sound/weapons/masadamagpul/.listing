@@ -1,0 +1,17 @@
+total 658
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root        26185 Mar 24 22:10 boltrelease.mp3
+-rw-rw-rw-   1 root     root        16762 Mar 24 22:10 chargerback.mp3
+-rw-rw-rw-   1 root     root        23031 Mar 24 22:10 cloth1.mp3
+-rw-rw-rw-   1 root     root        30346 Mar 24 22:10 cloth2.mp3
+-rw-rw-rw-   1 root     root       101418 Mar 24 22:10 foley.mp3
+-rw-rw-rw-   1 root     root        23031 Mar 24 22:10 magin1.mp3
+-rw-rw-rw-   1 root     root        19916 Mar 24 22:10 magin2.mp3
+-rw-rw-rw-   1 root     root        18871 Mar 24 22:10 magout.mp3
+-rw-rw-rw-   1 root     root        19916 Mar 24 22:10 magslap.mp3
+-rw-rw-rw-   1 root     root        52960 Mar 24 22:10 masada_sil.wav
+-rw-rw-rw-   1 root     root       290932 Mar 24 22:10 masada_unsil.wav
+-rw-rw-rw-   1 root     root        28256 Mar 24 22:10 placesilencer.mp3
+-rw-rw-rw-   1 root     root         4224 Mar 24 22:10 removesilencer.mp3
+-rw-rw-rw-   1 root     root         9538 Mar 24 22:10 safety.mp3

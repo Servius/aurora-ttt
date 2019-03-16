@@ -1,0 +1,8 @@
+total 1244
+d--x--x--x   1 root     root          512 Apr 22 06:47 .
+d--x--x--x   1 root     root          512 Apr 22 06:47 ..
+-rw-rw-rw-   1 root     root       189426 Mar 24 22:10 c_arms_chief.dx80.vtx
+-rw-rw-rw-   1 root     root       187610 Mar 24 22:10 c_arms_chief.dx90.vtx
+-rw-rw-rw-   1 root     root        19464 Mar 24 22:10 c_arms_chief.mdl
+-rw-rw-rw-   1 root     root       187098 Mar 24 22:10 c_arms_chief.sw.vtx
+-rw-rw-rw-   1 root     root       688128 Mar 24 22:10 c_arms_chief.vvd

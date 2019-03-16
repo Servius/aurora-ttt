@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+$baseTexture "models\OW\tracer\Hair_Diff"
+$bumpmap "models\OW\tracer\Hair_Normal"
+$phong 1
+$phongboost "0.1"
+$phongexponent 100
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+//$translucent 1
+}

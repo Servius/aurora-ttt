@@ -1,0 +1,15 @@
+total 159
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          220 Mar 24 22:10 riot_metal.vmt
+-rw-rw-rw-   1 root     root        22080 Mar 24 22:10 riot_metal.vtf
+-rw-rw-rw-   1 root     root        22080 Mar 24 22:10 riot_metal_bump.vtf
+-rw-rw-rw-   1 root     root           79 Mar 24 22:10 shield_cloth.vmt
+-rw-rw-rw-   1 root     root        22052 Mar 24 22:10 shield_cloth.vtf
+-rw-rw-rw-   1 root     root          222 Mar 24 22:10 shield_edges.vmt
+-rw-rw-rw-   1 root     root        22080 Mar 24 22:10 shield_edges.vtf
+-rw-rw-rw-   1 root     root          155 Mar 24 22:10 shield_glass.vmt
+-rw-rw-rw-   1 root     root        22080 Mar 24 22:10 shield_glass.vtf
+-rw-rw-rw-   1 root     root          221 Mar 24 22:10 shield_grip.vmt
+-rw-rw-rw-   1 root     root        22052 Mar 24 22:10 shield_grip.vtf
+-rw-rw-rw-   1 root     root        22052 Mar 24 22:10 shield_gripbump.vtf

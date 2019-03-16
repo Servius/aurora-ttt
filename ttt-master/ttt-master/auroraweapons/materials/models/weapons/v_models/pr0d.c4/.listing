@@ -1,0 +1,25 @@
+total 950
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          199 Mar 24 22:11 bomb1.vmt
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 bomb1.vtf
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 bomb1_planted.vtf
+-rw-rw-rw-   1 root     root       262352 Mar 24 22:11 bomb1_ref.vtf
+-rw-rw-rw-   1 root     root           81 Mar 24 22:11 bomb2.vmt
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 bomb2.vtf
+-rw-rw-rw-   1 root     root           82 Mar 24 22:11 bomb3b.vmt
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 bomb3b.vtf
+-rw-rw-rw-   1 root     root           80 Mar 24 22:11 hand.vmt
+-rw-rw-rw-   1 root     root        32976 Mar 24 22:11 hand.vtf
+-rw-rw-rw-   1 root     root          172 Mar 24 22:11 screen_04.vmt
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_04.vtf
+-rw-rw-rw-   1 root     root          172 Mar 24 22:11 screen_45.vmt
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_45.vtf
+-rw-rw-rw-   1 root     root          176 Mar 24 22:11 screen_active.vmt
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_active.vtf
+-rw-rw-rw-   1 root     root          173 Mar 24 22:11 screen_off.vmt
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_off.vtf
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_off_ref.vtf
+-rw-rw-rw-   1 root     root          172 Mar 24 22:11 screen_on.vmt
+-rw-rw-rw-   1 root     root        16528 Mar 24 22:11 screen_on.vtf
+-rw-rw-rw-   1 root     root        32912 Mar 24 22:11 screen_ref.vtf

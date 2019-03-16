@@ -1,0 +1,8 @@
+total 8878
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root      5592612 Mar 24 22:11 eotech_bump.vtf
+-rw-rw-rw-   1 root     root      1048784 Mar 24 22:11 eotech_diff.vtf
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:11 eotech_exponent.vtf
+-rw-rw-rw-   1 root     root      1048784 Mar 24 22:11 scar_exponent.vtf
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 tan

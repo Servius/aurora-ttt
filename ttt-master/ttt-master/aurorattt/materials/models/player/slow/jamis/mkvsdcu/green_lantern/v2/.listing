@@ -1,0 +1,15 @@
+total 6838
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root          303 Mar 29 02:25 slow_green_lantern.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 29 02:26 slow_green_lantern.vtf
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:26 slow_green_lantern_bump.vtf
+-rw-rw-rw-   1 root     root          304 Mar 29 02:26 slow_green_lantern_carbon.vmt
+-rw-rw-rw-   1 root     root          311 Mar 29 02:26 slow_green_lantern_eyes.vmt
+-rw-rw-rw-   1 root     root          302 Mar 29 02:26 slow_green_lantern_head.vmt
+-rw-rw-rw-   1 root     root          303 Mar 29 02:26 slow_green_lantern_mask.vmt
+-rw-rw-rw-   1 root     root          363 Mar 29 02:26 slow_green_lantern_metal.vmt
+-rw-rw-rw-   1 root     root          254 Mar 29 02:26 slow_green_lantern_ring.vmt
+-rw-rw-rw-   1 root     root          214 Mar 29 02:26 slow_green_lantern_ring_2.vmt
+-rw-rw-rw-   1 root     root          203 Mar 29 02:26 slow_green_lantern_sole.vmt
+-rw-rw-rw-   1 root     root          304 Mar 29 02:26 slow_green_lantern_white.vmt

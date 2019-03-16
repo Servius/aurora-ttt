@@ -1,0 +1,8 @@
+total 6659
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root      1398308 Mar 24 22:11 mag_bump.vtf
+-rw-rw-rw-   1 root     root       174984 Mar 24 22:11 mag_diff.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:11 mag_exponent.vtf
+-rw-rw-rw-   1 root     root      2097360 Mar 24 22:11 scar_bump.vtf
+-rw-rw-rw-   1 root     root      2796424 Mar 24 22:11 scar_diff.vtf

@@ -1,0 +1,14 @@
+total 2782
+d--x--x--x   1 root     root          512 Apr 22 06:47 .
+d--x--x--x   1 root     root          512 Apr 22 06:47 ..
+-rw-rw-rw-   1 root     root          197 Mar 24 22:09 aimpoint.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:09 aimpoint.vtf
+-rw-rw-rw-   1 root     root          292 Mar 24 22:09 gdcw_acog.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:09 gdcw_acog.vtf
+-rw-rw-rw-   1 root     root          299 Mar 24 22:09 gdcw_acogchevron.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:09 gdcw_acogchevron.vtf
+-rw-rw-rw-   1 root     root          167 Mar 24 22:09 gdcw_acogcross.vmt
+-rw-rw-rw-   1 root     root       349760 Mar 24 22:09 gdcw_acogcross.vtf
+-rw-rw-rw-   1 root     root          169 Mar 24 22:09 gdcw_closedsight.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 24 22:09 gdcw_closedsight.vtf
+-rw-rw-rw-   1 root     root        43912 Mar 24 22:09 gdcw_noise.vtf

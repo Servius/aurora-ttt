@@ -1,0 +1,19 @@
+total 7182
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root          183 Mar 29 02:26 slow_superman.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 29 02:26 slow_superman.vtf
+-rw-rw-rw-   1 root     root          284 Mar 29 02:26 slow_superman_belt.vmt
+-rw-rw-rw-   1 root     root          346 Mar 29 02:26 slow_superman_belt_metal.vmt
+-rw-rw-rw-   1 root     root          282 Mar 29 02:26 slow_superman_boots.vmt
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:26 slow_superman_bump.vtf
+-rw-rw-rw-   1 root     root          297 Mar 29 02:26 slow_superman_cape.vmt
+-rw-rw-rw-   1 root     root       174984 Mar 29 02:26 slow_superman_cape.vtf
+-rw-rw-rw-   1 root     root       174984 Mar 29 02:26 slow_superman_cape_bump.vtf
+-rw-rw-rw-   1 root     root          290 Mar 29 02:26 slow_superman_eyes.vmt
+-rw-rw-rw-   1 root     root          286 Mar 29 02:26 slow_superman_sign.vmt
+-rw-rw-rw-   1 root     root          285 Mar 29 02:26 slow_superman_sign_cape.vmt
+-rw-rw-rw-   1 root     root          344 Mar 29 02:26 slow_superman_sign_cape_metal.vmt
+-rw-rw-rw-   1 root     root          346 Mar 29 02:26 slow_superman_sign_metal.vmt
+-rw-rw-rw-   1 root     root          285 Mar 29 02:26 slow_superman_skin.vmt
+-rw-rw-rw-   1 root     root          286 Mar 29 02:26 slow_superman_suit.vmt

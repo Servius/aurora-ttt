@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"TTT Realistic Booby Trap"
+	"version"	"20141102"
+	"up_date"	""
+	"author_name"	"band!t"
+	"author_email"	"garrysmodfriends@gmail.com"
+	"author_url"	"www.gmodfriends.com/software"
+	"info"		"Health Stations: Now with more paranoia!"
+	"override"	"0"
+}

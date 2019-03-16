@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/green_lantern/v2/slow_green_lantern"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/jamis/mkvsdcu/green_lantern/v2/slow_green_lantern"
+	"$envmaptint" "[.85 1 .85]"
+	"$envmapcontrast" .65
+	"$envmapsaturation" .85
+}
+

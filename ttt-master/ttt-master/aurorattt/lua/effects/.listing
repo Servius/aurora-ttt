@@ -1,0 +1,6 @@
+total 0
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:10 m9k_effect_mad_penetration_trace
+drwxrwxrwx   1 root     root          512 Mar 24 22:10 m9k_effect_mad_ricochet_trace
+drwxrwxrwx   1 root     root          512 Mar 24 22:10 m9k_rg_muzzle_rifle

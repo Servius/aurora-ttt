@@ -1,0 +1,14 @@
+total 10
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 bull
+-rw-rw-rw-   1 root     root          615 Mar 24 22:11 eo-back.vmt
+-rw-rw-rw-   1 root     root           45 Mar 24 22:11 eo-front.vmt
+-rw-rw-rw-   1 root     root          205 Mar 24 22:11 eo-glass-back.vmt
+-rw-rw-rw-   1 root     root           45 Mar 24 22:11 eo-glass-front.vmt
+-rw-rw-rw-   1 root     root          623 Mar 24 22:11 mag_d_black.vmt
+-rw-rw-rw-   1 root     root           45 Mar 24 22:11 magnifier_d.vmt
+-rw-rw-rw-   1 root     root           45 Mar 24 22:11 magnifier-glass.vmt
+-rw-rw-rw-   1 root     root          617 Mar 24 22:11 scar_diff.vmt
+-rw-rw-rw-   1 root     root          617 Mar 24 22:11 sights-down.vmt
+-rw-rw-rw-   1 root     root           45 Mar 24 22:11 sights-up.vmt

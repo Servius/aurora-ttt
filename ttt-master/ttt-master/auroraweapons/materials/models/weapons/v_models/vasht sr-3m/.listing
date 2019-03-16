@@ -1,0 +1,11 @@
+total 3336
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          395 Mar 24 22:11 sr3m1.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 sr3m1.vtf
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 sr3m1_exp.vtf
+-rw-rw-rw-   1 root     root      1048784 Mar 24 22:11 sr3m1_n.vtf
+-rw-rw-rw-   1 root     root          409 Mar 24 22:11 sr3m2.vmt
+-rw-rw-rw-   1 root     root       524496 Mar 24 22:11 sr3m2.vtf
+-rw-rw-rw-   1 root     root       131280 Mar 24 22:11 sr3m2_exp.vtf
+-rw-rw-rw-   1 root     root      1048784 Mar 24 22:11 sr3m2_n.vtf

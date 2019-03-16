@@ -1,0 +1,13 @@
+total 6836
+d--x--x--x   1 root     root          512 Apr 22 06:45 .
+d--x--x--x   1 root     root          512 Apr 22 06:45 ..
+-rw-rw-rw-   1 root     root          273 Mar 29 02:25 slow_flash.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 29 02:25 slow_flash.vtf
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:25 slow_flash_bump.vtf
+-rw-rw-rw-   1 root     root          352 Mar 29 02:25 slow_flash_eyes.vmt
+-rw-rw-rw-   1 root     root          335 Mar 29 02:25 slow_flash_metal.vmt
+-rw-rw-rw-   1 root     root          102 Mar 29 02:25 slow_flash_mouth.vmt
+-rw-rw-rw-   1 root     root          270 Mar 29 02:25 slow_flash_skin.vmt
+-rw-rw-rw-   1 root     root          271 Mar 29 02:25 slow_flash_sole.vmt
+-rw-rw-rw-   1 root     root          271 Mar 29 02:25 slow_flash_white.vmt
+-rw-rw-rw-   1 root     root          271 Mar 29 02:25 slow_flash_yellow.vmt

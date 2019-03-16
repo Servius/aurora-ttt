@@ -1,0 +1,14 @@
+ "VertexlitGeneric"
+{
+	"$basetexture" "models/frozen/playerelsa/elsa_eyes"
+	"$nodecal" 1
+                "$halflambert" 1
+$phong 1
+$phongexponent 5
+$phongboost 2
+$phongfresnelranges "[1 1.5 2]"
+"$phongtint" "[.2 .2 .2]"
+$rimlight 1
+$rimlightexponent 5
+$rimlightboost 5
+}

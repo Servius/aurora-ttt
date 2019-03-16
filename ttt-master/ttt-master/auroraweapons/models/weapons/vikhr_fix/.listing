@@ -1,0 +1,15 @@
+total 4054
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root       261215 Mar 24 22:11 v_dmg_vikhr.dx80.vtx
+-rw-rw-rw-   1 root     root       261056 Mar 24 22:11 v_dmg_vikhr.dx90.vtx
+-rw-rw-rw-   1 root     root        46364 Mar 24 22:11 v_dmg_vikhr.mdl
+-rw-rw-rw-   1 root     root       260736 Mar 24 22:11 v_dmg_vikhr.sw.vtx
+-rw-rw-rw-   1 root     root      1123712 Mar 24 22:11 v_dmg_vikhr.vvd
+-rw-rw-rw-   1 root     root       260604 Mar 24 22:11 w_dmg_vikhr.dx80.vtx
+-rw-rw-rw-   1 root     root       260604 Mar 24 22:11 w_dmg_vikhr.dx90.vtx
+-rw-rw-rw-   1 root     root         3968 Mar 24 22:11 w_dmg_vikhr.mdl
+-rw-rw-rw-   1 root     root         1750 Mar 24 22:11 w_dmg_vikhr.phy
+-rw-rw-rw-   1 root     root       260588 Mar 24 22:11 w_dmg_vikhr.sw.vtx
+-rw-rw-rw-   1 root     root      1318336 Mar 24 22:11 w_dmg_vikhr.vvd
+-rw-rw-rw-   1 root     root        86757 Mar 24 22:11 w_dmg_vikhr.xbox.vtx

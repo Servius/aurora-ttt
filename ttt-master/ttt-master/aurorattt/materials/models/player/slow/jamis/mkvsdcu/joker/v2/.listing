@@ -1,0 +1,19 @@
+total 7353
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root          272 Mar 29 02:26 slow_joker.vmt
+-rw-rw-rw-   1 root     root      1398336 Mar 29 02:26 slow_joker.vtf
+-rw-rw-rw-   1 root     root      5592640 Mar 29 02:26 slow_joker_bump.vtf
+-rw-rw-rw-   1 root     root          286 Mar 29 02:26 slow_joker_buttons.vmt
+-rw-rw-rw-   1 root     root          272 Mar 29 02:26 slow_joker_clothes.vmt
+-rw-rw-rw-   1 root     root          332 Mar 29 02:26 slow_joker_clothes_fx.vmt
+-rw-rw-rw-   1 root     root          175 Mar 29 02:26 slow_joker_clothes_green.vmt
+-rw-rw-rw-   1 root     root          287 Mar 29 02:26 slow_joker_eyes.vmt
+-rw-rw-rw-   1 root     root          272 Mar 29 02:26 slow_joker_flower.vmt
+-rw-rw-rw-   1 root     root          270 Mar 29 02:26 slow_joker_hands.vmt
+-rw-rw-rw-   1 root     root          280 Mar 29 02:26 slow_joker_head.vmt
+-rw-rw-rw-   1 root     root       174984 Mar 29 02:26 slow_joker_head.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 29 02:26 slow_joker_head_bump.vtf
+-rw-rw-rw-   1 root     root          273 Mar 29 02:26 slow_joker_shirt.vmt
+-rw-rw-rw-   1 root     root          272 Mar 29 02:26 slow_joker_shoes.vmt
+-rw-rw-rw-   1 root     root          271 Mar 29 02:26 slow_joker_socks.vmt

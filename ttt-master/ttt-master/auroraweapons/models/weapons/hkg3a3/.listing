@@ -1,0 +1,16 @@
+total 726
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 scar
+-rw-rw-rw-   1 root     root        49432 Mar 24 22:10 v_hk_g3_rif.dx80.vtx
+-rw-rw-rw-   1 root     root        49265 Mar 24 22:10 v_hk_g3_rif.dx90.vtx
+-rw-rw-rw-   1 root     root        36980 Mar 24 22:10 v_hk_g3_rif.mdl
+-rw-rw-rw-   1 root     root        48953 Mar 24 22:10 v_hk_g3_rif.sw.vtx
+-rw-rw-rw-   1 root     root       204160 Mar 24 22:10 v_hk_g3_rif.vvd
+-rw-rw-rw-   1 root     root        49265 Mar 24 22:10 v_hk_g3_rif.xbox.vtx
+-rw-rw-rw-   1 root     root        35828 Mar 24 22:10 w_hk_g3.dx80.vtx
+-rw-rw-rw-   1 root     root        35828 Mar 24 22:10 w_hk_g3.dx90.vtx
+-rw-rw-rw-   1 root     root         3804 Mar 24 22:10 w_hk_g3.mdl
+-rw-rw-rw-   1 root     root         1506 Mar 24 22:10 w_hk_g3.phy
+-rw-rw-rw-   1 root     root        35812 Mar 24 22:10 w_hk_g3.sw.vtx
+-rw-rw-rw-   1 root     root       187008 Mar 24 22:10 w_hk_g3.vvd

@@ -1,0 +1,4 @@
+total 2
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root         1237 Mar 24 22:10 init.lua

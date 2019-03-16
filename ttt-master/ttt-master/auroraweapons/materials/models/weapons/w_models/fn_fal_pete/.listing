@@ -1,0 +1,13 @@
+total 10
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root           91 Mar 24 22:11 barrel-izzy.vmt
+-rw-rw-rw-   1 root     root           97 Mar 24 22:11 bolthandle-modern.vmt
+-rw-rw-rw-   1 root     root           98 Mar 24 22:11 carryhandle-ribbed.vmt
+-rw-rw-rw-   1 root     root           93 Mar 24 22:11 foregrip-izzy.vmt
+-rw-rw-rw-   1 root     root           92 Mar 24 22:11 frontsight-1.vmt
+-rw-rw-rw-   1 root     root           87 Mar 24 22:11 grip-fn.vmt
+-rw-rw-rw-   1 root     root           86 Mar 24 22:11 mag-20.vmt
+-rw-rw-rw-   1 root     root           93 Mar 24 22:11 rearsight-slr.vmt
+-rw-rw-rw-   1 root     root           83 Mar 24 22:11 rec.vmt
+-rw-rw-rw-   1 root     root           91 Mar 24 22:11 stock-solid.vmt

@@ -1,0 +1,15 @@
+total 4724
+d--x--x--x   1 root     root          512 Apr 22 06:50 .
+d--x--x--x   1 root     root          512 Apr 22 06:50 ..
+-rw-rw-rw-   1 root     root       317932 Mar 24 22:12 dominating.wav
+-rw-rw-rw-   1 root     root       354796 Mar 24 22:12 doublekill.wav
+-rw-rw-rw-   1 root     root       322540 Mar 24 22:12 godlike.wav
+-rw-rw-rw-   1 root     root       410092 Mar 24 22:12 holyshit.wav
+-rw-rw-rw-   1 root     root       419308 Mar 24 22:12 killingspree.wav
+-rw-rw-rw-   1 root     root       460780 Mar 24 22:12 megakill.wav
+-rw-rw-rw-   1 root     root       589804 Mar 24 22:12 monsterkill.wav
+-rw-rw-rw-   1 root     root       345580 Mar 24 22:12 rampage.wav
+-rw-rw-rw-   1 root     root       336364 Mar 24 22:12 triplekill.wav
+-rw-rw-rw-   1 root     root       456172 Mar 24 22:12 ultrakill.wav
+-rw-rw-rw-   1 root     root       359404 Mar 24 22:12 unstoppable.wav
+-rw-rw-rw-   1 root     root       460780 Mar 24 22:12 wickedsick.wav

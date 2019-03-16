@@ -1,0 +1,18 @@
+total 0
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_acr
+drwxrwxrwx   1 root     root          512 Mar 27 21:54 weapon_ttt_ak47
+drwxrwxrwx   1 root     root          512 Mar 27 21:54 weapon_ttt_aug
+drwxrwxrwx   1 root     root          512 Mar 27 21:54 weapon_ttt_fal
+drwxrwxrwx   1 root     root          512 Mar 27 21:54 weapon_ttt_famas
+drwxrwxrwx   1 root     root          512 Mar 27 21:54 weapon_ttt_g3a3
+drwxrwxrwx   1 root     root          512 Mar 27 21:53 weapon_ttt_galil
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_jihad_bomb
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_revolver
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_riot
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_scar
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_silencedsniper
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_siltmp
+drwxrwxrwx   1 root     root          512 Mar 24 22:11 weapon_ttt_tripmine
+drwxrwxrwx   1 root     root          512 Mar 27 23:03 weapon_ttt_vikhr

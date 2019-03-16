@@ -1,0 +1,11 @@
+total 1544
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root         2952 Mar 27 18:09 slow_detail.vtf
+-rw-rw-rw-   1 root     root          280 Mar 27 18:09 slow_eyes.vmt
+-rw-rw-rw-   1 root     root          340 Mar 27 18:09 slow_head.vmt
+-rw-rw-rw-   1 root     root       699272 Mar 27 18:09 slow_head.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 27 18:09 slow_head_bump.vtf
+-rw-rw-rw-   1 root     root          338 Mar 27 18:09 slow_legs.vmt
+-rw-rw-rw-   1 root     root       174984 Mar 27 18:09 slow_legs.vtf
+-rw-rw-rw-   1 root     root       349760 Mar 27 18:10 slow_legs_bump.vtf

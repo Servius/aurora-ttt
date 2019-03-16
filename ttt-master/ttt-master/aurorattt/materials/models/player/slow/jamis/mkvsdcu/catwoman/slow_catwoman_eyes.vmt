@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/catwoman/slow_catwoman_eyes"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/jamis/mkvsdcu/catwoman/slow_catwoman_eyes"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+

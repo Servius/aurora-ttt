@@ -1,0 +1,9 @@
+total 842
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root        48129 Mar 24 22:10 1famas_forearm.mp3
+-rw-rw-rw-   1 root     root        32436 Mar 24 22:10 famas_clipin.mp3
+-rw-rw-rw-   1 root     root        47064 Mar 24 22:10 famas_clipout.mp3
+-rw-rw-rw-   1 root     root        23031 Mar 24 22:10 famas_forearm.mp3
+-rw-rw-rw-   1 root     root       356168 Mar 24 22:10 shot-1.wav
+-rw-rw-rw-   1 root     root       352804 Mar 24 22:10 shot-2.wav

@@ -1,0 +1,24 @@
+total 71
+d--x--x--x   1 root     root          512 Apr 22 06:49 .
+d--x--x--x   1 root     root          512 Apr 22 06:49 ..
+-rw-rw-rw-   1 root     root         1068 Mar 24 22:12 weapon_ghost_ak47.lua
+-rw-rw-rw-   1 root     root         3817 Mar 24 22:12 weapon_ghost_augbar.lua
+-rw-rw-rw-   1 root     root         3583 Mar 24 22:12 weapon_ghost_awp.lua
+-rw-rw-rw-   1 root     root        17880 Mar 24 22:12 weapon_ghost_base.lua
+-rw-rw-rw-   1 root     root         7370 Mar 24 22:12 weapon_ghost_crowbar.lua
+-rw-rw-rw-   1 root     root         1108 Mar 24 22:12 weapon_ghost_famas.lua
+-rw-rw-rw-   1 root     root         1120 Mar 24 22:12 weapon_ghost_galil.lua
+-rw-rw-rw-   1 root     root          810 Mar 24 22:12 weapon_ghost_glock.lua
+-rw-rw-rw-   1 root     root         2021 Mar 24 22:12 weapon_ghost_hl2smg.lua
+-rw-rw-rw-   1 root     root         1859 Mar 24 22:12 weapon_ghost_m16.lua
+-rw-rw-rw-   1 root     root         1245 Mar 24 22:12 weapon_ghost_mac10.lua
+-rw-rw-rw-   1 root     root         1732 Mar 24 22:12 weapon_ghost_magnum.lua
+-rw-rw-rw-   1 root     root         1302 Mar 24 22:12 weapon_ghost_mp5.lua
+-rw-rw-rw-   1 root     root         1338 Mar 24 22:12 weapon_ghost_p90.lua
+-rw-rw-rw-   1 root     root         2190 Mar 24 22:12 weapon_ghost_pistol.lua
+-rw-rw-rw-   1 root     root          990 Mar 24 22:12 weapon_ghost_revolver.lua
+-rw-rw-rw-   1 root     root         3743 Mar 24 22:12 weapon_ghost_rifle.lua
+-rw-rw-rw-   1 root     root         2487 Mar 24 22:12 weapon_ghost_sg550.lua
+-rw-rw-rw-   1 root     root         4690 Mar 24 22:12 weapon_ghost_shotgun.lua
+-rw-rw-rw-   1 root     root         1006 Mar 24 22:12 weapon_ghost_siltmp.lua
+-rw-rw-rw-   1 root     root          925 Mar 24 22:12 weapon_ghost_sledge.lua

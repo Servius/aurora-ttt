@@ -1,0 +1,13 @@
+total 10
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root           81 Mar 24 22:11 bomb1.vmt
+-rw-rw-rw-   1 root     root           89 Mar 24 22:11 bomb1_planted.vmt
+-rw-rw-rw-   1 root     root           81 Mar 24 22:11 bomb2.vmt
+-rw-rw-rw-   1 root     root           82 Mar 24 22:11 bomb3b.vmt
+-rw-rw-rw-   1 root     root           80 Mar 24 22:11 hand.vmt
+-rw-rw-rw-   1 root     root           85 Mar 24 22:11 screen_04.vmt
+-rw-rw-rw-   1 root     root           85 Mar 24 22:11 screen_45.vmt
+-rw-rw-rw-   1 root     root           89 Mar 24 22:11 screen_active.vmt
+-rw-rw-rw-   1 root     root           86 Mar 24 22:11 screen_off.vmt
+-rw-rw-rw-   1 root     root           85 Mar 24 22:11 screen_on.vmt

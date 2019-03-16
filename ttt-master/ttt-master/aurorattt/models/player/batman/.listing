@@ -1,0 +1,10 @@
+total 1408
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root       185592 Mar 29 02:25 slow_pub_v2.dx80.vtx
+-rw-rw-rw-   1 root     root       182700 Mar 29 02:25 slow_pub_v2.dx90.vtx
+-rw-rw-rw-   1 root     root        17420 Mar 29 02:25 slow_pub_v2.mdl
+-rw-rw-rw-   1 root     root        75606 Mar 29 02:25 slow_pub_v2.phy
+-rw-rw-rw-   1 root     root       182196 Mar 29 02:25 slow_pub_v2.sw.vtx
+-rw-rw-rw-   1 root     root       611776 Mar 29 02:25 slow_pub_v2.vvd
+-rw-rw-rw-   1 root     root       182700 Mar 29 02:25 slow_pub_v2.xbox.vtx

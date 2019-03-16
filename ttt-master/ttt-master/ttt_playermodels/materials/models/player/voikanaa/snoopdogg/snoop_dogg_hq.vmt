@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/voikanaa/snoopdogg/snoop_dogg_hq"
+	"$bumpmap" "models/player/voikanaa/snoopdogg/snoop_dogg_hq_nrm"
+	"$halflambert" 1
+
+	$alphatest 1
+	$nocull 1
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.1 0.2 0.5]"
+}

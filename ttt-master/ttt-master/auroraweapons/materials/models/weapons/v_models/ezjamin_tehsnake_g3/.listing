@@ -1,0 +1,6 @@
+total 3075
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          262 Mar 24 22:11 ts_g3.vmt
+-rw-rw-rw-   1 root     root      1048720 Mar 24 22:11 ts_g3.vtf
+-rw-rw-rw-   1 root     root      2097296 Mar 24 22:11 ts_g3_bump.vtf

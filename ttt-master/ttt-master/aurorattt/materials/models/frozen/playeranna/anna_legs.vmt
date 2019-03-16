@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/frozen/playeranna/anna_legs"
+	"$bumpmap" "models/frozen/playeranna/anna_legs_n"
+	"$normalmap" "models/frozen/playeranna/anna_legs_n"
+	"$nocull" 1
+$phong 1
+$phongexponent 5
+$phongboost 2
+$phongfresnelranges "[1 1.5 2]"
+"$phongtint" "[.2 .2 .2]"
+$rimlight 1
+$rimlightexponent 5
+$rimlightboost 5
+}

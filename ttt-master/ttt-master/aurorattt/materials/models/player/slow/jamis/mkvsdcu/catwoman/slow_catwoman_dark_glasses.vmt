@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/catwoman/slow_catwoman_dark"
+	"$bumpmap" "models/player/slow/jamis/mkvsdcu/catwoman/slow_catwoman_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"25"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

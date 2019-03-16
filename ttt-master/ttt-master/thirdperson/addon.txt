@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "New Perspective"
+	"version"     "11621"
+	"author_name" "my_hat_stinks"
+	"author_url"  ""
+	"info"        "A simple ThirdPerson addon"
+	"override"    "0"
+}

@@ -1,0 +1,15 @@
+total 24
+d--x--x--x   1 root     root          512 Apr 22 06:50 .
+d--x--x--x   1 root     root          512 Apr 22 06:50 ..
+drwxrwxrwx   1 root     root          512 Mar 25 02:15 autorun
+-rw-rw-rw-   1 root     root         2701 Mar 25 02:16 cl_wtev_hud.lua
+drwxrwxrwx   1 root     root          512 Mar 25 02:15 entities
+-rw-rw-rw-   1 root     root         8626 Mar 25 02:15 license.txt
+-rw-rw-rw-   1 root     root         2188 Mar 25 02:15 sh_wtev_base.lua
+-rw-rw-rw-   1 root     root         1060 Mar 25 02:15 sh_wtev_commands.lua
+-rw-rw-rw-   1 root     root          306 Apr 22 06:22 sh_wtev_config.lua
+-rw-rw-rw-   1 root     root         1140 Mar 25 02:15 sh_wtev_tttqueue.lua
+-rw-rw-rw-   1 root     root         3312 Mar 25 02:15 sv_wtev_tttoverrides.lua
+drwxrwxrwx   1 root     root          512 Mar 25 02:15 ulx
+drwxrwxrwx   1 root     root          512 Mar 25 02:15 weapons
+drwxrwxrwx   1 root     root          512 Mar 25 02:15 wtevents

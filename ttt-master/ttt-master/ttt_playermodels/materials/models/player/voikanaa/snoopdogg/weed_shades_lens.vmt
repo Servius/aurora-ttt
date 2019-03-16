@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/voikanaa/snoopdogg/weed_shades_lens"
+	"$bumpmap" "models/player/voikanaa/snoopdogg/weed_shades_nrm"
+	"$halflambert" "1"
+	
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[0.1 0.2 0.5]"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .2 .2]"
+	"$envmapcontrast" "1"
+
+	$normalmapalphaenvmapmask 1
+}

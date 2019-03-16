@@ -1,0 +1,17 @@
+TTT Realistic Booby Trap
+©2014 Gmodfriends
+414
+Version 20141102
+
+Changelog
+
+20141102 - Current Version
+	* ADDED score event recognition for booby trap events: plant, explode, defuse
+	* ADDED settings to have DNA only on the actual explosivese
+	* FIXED explosive not responding to DNA scans
+	* FIXED icon and name in DNA scan
+	* FIXED viewmodel persisting as dualies after bone reset
+	* FIXED healthstation viewmodel animating during drop
+
+20141024
+	* Uploaded to Scriptfodder.

@@ -1,0 +1,10 @@
+total 489
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root       299984 Mar 24 22:10 aug-1.wav
+-rw-rw-rw-   1 root     root        30365 Mar 24 22:10 boltpull.mp3
+-rw-rw-rw-   1 root     root        19916 Mar 24 22:10 boltslap.mp3
+-rw-rw-rw-   1 root     root        41859 Mar 24 22:10 cloth.mp3
+-rw-rw-rw-   1 root     root        28275 Mar 24 22:10 magin.mp3
+-rw-rw-rw-   1 root     root        23050 Mar 24 22:10 magout.mp3
+-rw-rw-rw-   1 root     root        54397 Mar 24 22:10 tap.mp3

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/jamis/mkvsdcu/superman/v2/slow_superman"
+	"$bumpmap" "models/player/slow/jamis/mkvsdcu/superman/v2/slow_superman_bump"
+}

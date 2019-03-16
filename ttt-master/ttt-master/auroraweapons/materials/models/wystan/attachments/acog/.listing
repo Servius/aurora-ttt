@@ -1,0 +1,7 @@
+total 772
+d--x--x--x   1 root     root          512 Apr 22 06:48 .
+d--x--x--x   1 root     root          512 Apr 22 06:48 ..
+-rw-rw-rw-   1 root     root          122 Mar 24 22:11 acog.vmt
+-rw-rw-rw-   1 root     root       524368 Mar 24 22:11 acog.vtf
+-rw-rw-rw-   1 root     root           97 Mar 24 22:11 lense.vmt
+-rw-rw-rw-   1 root     root       262352 Mar 24 22:11 lense.vtf

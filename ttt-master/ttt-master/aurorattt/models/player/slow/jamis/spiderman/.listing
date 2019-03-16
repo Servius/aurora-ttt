@@ -1,0 +1,10 @@
+total 691
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root        84523 Mar 27 18:09 slow.dx80.vtx
+-rw-rw-rw-   1 root     root        83543 Mar 27 18:09 slow.dx90.vtx
+-rw-rw-rw-   1 root     root        17012 Mar 27 18:09 slow.mdl
+-rw-rw-rw-   1 root     root        76806 Mar 27 18:09 slow.phy
+-rw-rw-rw-   1 root     root        83079 Mar 27 18:09 slow.sw.vtx
+-rw-rw-rw-   1 root     root       274496 Mar 27 18:09 slow.vvd
+-rw-rw-rw-   1 root     root        83543 Mar 27 18:09 slow.xbox.vtx

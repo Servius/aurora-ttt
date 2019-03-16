@@ -1,0 +1,10 @@
+total 1129
+d--x--x--x   1 root     root          512 Apr 22 06:46 .
+d--x--x--x   1 root     root          512 Apr 22 06:46 ..
+-rw-rw-rw-   1 root     root       149793 Mar 27 16:45 vendettaguy.dx80.vtx
+-rw-rw-rw-   1 root     root       147035 Mar 27 16:45 vendettaguy.dx90.vtx
+-rw-rw-rw-   1 root     root        20456 Mar 27 16:45 vendettaguy.mdl
+-rw-rw-rw-   1 root     root        18391 Mar 27 16:45 vendettaguy.phy
+-rw-rw-rw-   1 root     root       146571 Mar 27 16:45 vendettaguy.sw.vtx
+-rw-rw-rw-   1 root     root       522880 Mar 27 16:45 vendettaguy.vvd
+-rw-rw-rw-   1 root     root       147525 Mar 27 16:45 vendettaguy.xbox.vtx
